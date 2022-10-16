@@ -1,12 +1,7 @@
 <h1 align="center">Hello! 😎</h1>
-<h3 align="center">
-  Full-stack and DevOps Engineer passionate about crafting scalable, accessible
-  web-based applications.
-</h3>
 
-- 🔭 I’m currently working on [jrnl](https://github.com/jrnl-org/jrnl)
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://github.com/wren" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,7 +14,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Primary Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
@@ -90,3 +85,6 @@
     />
   </a>
 </p>
+
+### Fun Stats:
+![Streak](https://streak-stats.demolab.com/?user=wren&currStreakNum=2FD3EB&date_format=[Y-]m-j&theme=onedark)
