@@ -1,8 +1,4 @@
 <h1 align="center">Hello! 😎</h1>
-<h3 align="center">
-  Full-stack and DevOps Engineer passionate about crafting scalable, accessible
-  web-based applications.
-</h3>
 
 - 🔭 I’m currently working on [jrnl](https://github.com/jrnl-org/jrnl)
 
