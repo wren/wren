@@ -1,25 +1,22 @@
 <h1 align="center">Hello! 😎</h1>
+<h3 align="center">
+  Full-stack and DevOps Engineer passionate about crafting scalable, accessible
+  web-based applications.
+</h3>
 
 - 🔭 I’m currently working on [jrnl](https://github.com/jrnl-org/jrnl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/nowandwren" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="nowandwren"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/jonathan-wren" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jonathan-wren"
-      height="30"
-      width="40"
-  /></a>
+<a href="https://github.com/wren" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/nowandwren" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jonathan-wren" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
